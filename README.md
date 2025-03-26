@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Selenium, SDET, JAVA, Mobile Testing**
 
-- 📫 How to reach me **jobsfortesterarpit@gmail.com**
+- 📫 How to reach me **jobsforarpit@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/arpitchoubey/](https://www.linkedin.com/in/arpitchoubey/)
 
