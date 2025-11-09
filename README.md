@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Selenium Webdriver**
 
-- 🌱 I’m currently learning **Rest Assured, Appium ,Advance Design Patterns**
+- 🌱 I’m currently learning **Rest Assured, Appium ,Playwright with Javascript**
 
 - 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
 
