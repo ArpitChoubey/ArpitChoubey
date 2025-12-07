@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitchoubey" alt="arpitchoubey" /></a> </p>
 
-- 🔭 I’m currently working on **Selenium Webdriver**
+- 🔭 I’m currently working on **Selenium Webdriver Latest Version 4.0**
 
-- 🌱 I’m currently learning **Rest Assured, Appium ,Playwright with Javascript**
+- 🌱 I’m currently learning ** Appium ,Playwright with Javascript**
 
 - 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
 
