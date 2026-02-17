@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Arpit Choubey</h1>
-<h3 align="center">6 plus years of experience as a SDET. Quality Testing and Quality Delivery is my way of life.</h3>
+<h3 align="center">6 plus years of experience as a SDET. Quality Testing and Quality Delivery are my way of life.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitchoubey&label=Profile%20views&color=0e75b6&style=flat" alt="arpitchoubey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitchoubey" alt="arpitchoubey" /></a> </p>
 
-- 🔭 I’m currently working on **Selenium Webdriver Latest Version 4.0**
+- 🔭 I’m currently working on **Playwright with Typescript**
 
-- 🌱 I’m currently learning ** Appium ,Playwright with Javascript**
+- 🌱 I’m currently learning ** LLM Basics, AI Agents with n8n QA/Automation Flows, MCP, and Automate QA Workflow with LangFlow  **
 
-- 👯 I’m looking to collaborate on **API Testing, Selenium, Automation Frameworks**
+- 👯 I’m looking to collaborate on **API Testing, Selenium Webdriver, Automation Frameworks, Appium, Rest Assured **
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArpitChoubey](https://github.com/ArpitChoubey)
 
