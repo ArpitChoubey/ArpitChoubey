@@ -1,22 +1,16 @@
 <h1 align="center">👋 Arpit Choubey | SDET | Automation Engineer | Playwright • Selenium • Rest Assured • CI/CD</h1>
-<h3 align="center">🚀 SDET with 6+ years of experience in building automation solutions and improving software quality across Web and API-based systems.</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=arpitchoubey&label=Profile%20views&color=0e75b6&style=flat" alt="arpitchoubey" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arpitchoubey" alt="arpitchoubey" />
-  </a>
-</p>
+<h3 align="center">
+🚀 SDET with 6+ years of experience in building automation solutions and improving software quality across Web and API-based systems
+</h3>
 
 ---
+
 ## 💼 Professional Summary
 
 🚀 SDET with 6+ years of experience delivering high-quality software through scalable automation solutions across Web, Mobile, and API systems.
 
-💼 Recently worked as a **Freelance QA Automation Engineer**, where I designed and implemented end-to-end automation frameworks using **Selenium, Playwright, and Rest Assured**.
+💼 Recently worked as a **Freelance QA Automation Engineer**, designing end-to-end automation frameworks using **Selenium, Playwright, and Rest Assured**.
 
 ---
 
@@ -30,86 +24,78 @@
 ---
 
 ## 🧩 Freelance Automation Experience
+ 
+- 🔁 Built CI/CD pipelines for continuous test execution  
+- ⚡ Reduced regression cycle time significantly through automation strategies  
+- 🐳 Enabled parallel execution using Selenium Grid & Docker  
+- 🔍 Improved defect detection and reporting quality  
 
-- 🔁 Built and integrated **CI/CD pipelines** for continuous and reliable test execution  
-- ⚡ Reduced **regression cycle time significantly** through automation strategy implementation  
-- 🐳 Enabled **parallel execution using Selenium Grid & Docker**, improving execution speed  
-- 🔍 Improved **defect detection and reporting quality** with structured validation approaches  
-
----
 ---
 
 ## 🔥 Featured Projects
 
-### 🚀 Playwright API Automation Framework
-👉 Scalable automation framework using Playwright + TypeScript + CI/CD
+### 🚀 Playwright API Automation Framework  
+👉 Scalable automation using Playwright + TypeScript + CI/CD  
 
-### 🛒 E-commerce UI Automation Framework
-👉 Selenium + Java with POM & Jenkins
+### 🛒 E-commerce UI Automation Framework  
+👉 Selenium + Java + Page Object Model + Jenkins  
 
-### 🔗 REST API Automation Framework
-👉 Rest Assured + TestNG
+### 🔗 REST API Automation Framework  
+👉 Rest Assured + TestNG  
 
-### 🐳 Dockerized Test Execution
-👉 Selenium Grid + Docker setup
+### 🐳 Dockerized Test Execution  
+👉 Selenium Grid + Docker setup  
 
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** Java, TypeScript  
-- **Automation:** Selenium, Playwright, Rest Assured, Appium  
-- **Frameworks:** TestNG, Cucumber  
-- **CI/CD:** Jenkins, GitHub Actions  
-- **Tools:** Docker, Selenium Grid, Postman, JMeter  
-
+🛠️ Tech Stack - **Languages:** Java, TypeScript 
+**Automation Tools:** Selenium, Playwright, Rest Assured, Appium  
+**Frameworks:** TestNG, Cucumber BDD 
+**CI/CD:** Jenkins, GitHub Actions
+**Tools:** Docker, Selenium Grid, Postman
 ---
 
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/arpitchoubey/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
+<a href="https://www.linkedin.com/in/arpitchoubey/" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" width="35" />
+</a>
 
-  <a href="https://medium.com/@ArpitChoubey9" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" height="30" width="40" />
-  </a>
+<a href="https://medium.com/@ArpitChoubey9" target="blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" height="35" width="35" />
+</a>
 </p>
 
 ---
 
-## ⚙️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40"/>
-
-<!-- NEW LOGOS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
 
 <img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40"/>
 
-<img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="40" height="40" title="Rest Assured"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appium/appium-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg" width="40" height="40"/>
 
 <img src="https://jmeter.apache.org/images/logo.svg" width="40" height="40"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 
 </p>
 
@@ -117,14 +103,27 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitchoubey&show_icons=true&layout=compact" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ArpitChoubey&show_icons=true&theme=tokyonight" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitchoubey&show_icons=true" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitChoubey&layout=compact&theme=tokyonight" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitchoubey" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitChoubey&theme=tokyonight" />
 </p>
+
+---
+
+## 📌 Profile Info
+
+- 👨‍💻 All projects: https://github.com/ArpitChoubey  
+- 📫 Email: jobsforarpit@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/arpitchoubey/  
+- ✍️ Medium: https://medium.com/@ArpitChoubey9  
+
+---
+
+⭐ *"Quality is not an act, it is a habit."*
