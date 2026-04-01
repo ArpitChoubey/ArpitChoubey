@@ -1,19 +1,49 @@
-<h1 align="center">Hi 👋, I'm Arpit Choubey</h1>
-<h3 align="center">6 plus years of experience as a SDET. Quality Testing and Quality Delivery are my way of life.</h3>
+<h1 align="center"># 👋 Arpit Choubey | SDET | Automation Engineer | Playwright • Selenium • Rest Assured • CI/CD</h1>
+<h3 align="center">🚀 SDET with 6+ years of experience in building automation solutions and improving software quality across Web and API-based systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitchoubey&label=Profile%20views&color=0e75b6&style=flat" alt="arpitchoubey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitchoubey" alt="arpitchoubey" /></a> </p>
 
-- 🔭 I’m currently working on **Playwright with Typescript**
+- # SDET with 6+ years of experience in building scalable test automation frameworks for Web & API systems.
 
-- 🌱 I’m currently learning ** LLM Basics, AI Agents with n8n QA/Automation Flows, MCP, and Automate QA Workflow with LangFlow  **
+💼 Recently worked as a Freelance QA Automation Engineer, designing end-to-end automation solutions using Selenium, Playwright, and Rest Assured.
 
-- 👯 I’m looking to collaborate on **API Testing, Selenium Webdriver, Automation Frameworks, Appium, Rest Assured **
+⚡ Specialized in:
+- API & UI Automation
+- CI/CD Integration (Jenkins, Docker)
+- Scalable Test Architecture & Parallel Execution
+
+- 💼 Freelance Automation Experience
+
+- Designed and implemented automation frameworks for e-commerce and API-driven systems
+- Built CI/CD pipelines for continuous test execution
+- Reduced regression cycle time through automation strategies
+- Implemented parallel execution using Selenium Grid & Docker
+
+## 🔥 Featured Projects
+
+### 🚀 Playwright API Automation Framework
+👉 Scalable automation framework using Playwright + TypeScript + CI/CD
+
+### 🛒 E-commerce UI Automation Framework
+👉 Selenium + Java framework with Page Object Model & Jenkins integration
+
+### 🔗 REST API Automation Framework
+👉 Rest Assured + TestNG framework for API validation & integration testing
+
+### 🐳 Dockerized Test Execution Setup
+👉 Containerized automation execution using Docker
+
+🛠️ Tech Stack
+
+- **Languages:** Java, TypeScript
+- **Automation Tools:** Selenium, Playwright, Rest Assured, Appium
+- **Frameworks:** TestNG, Cucumber BDD
+- **CI/CD:** Jenkins, GitHub Actions
+- **Tools:** Docker, Selenium Grid, Postman
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArpitChoubey](https://github.com/ArpitChoubey)
-
-- 💬 Ask me about **Selenium, SDET, JAVA, Mobile Testing**
 
 - 📫 How to reach me **jobsforarpit@gmail.com**
 
