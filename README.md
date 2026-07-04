@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arpit Choubey
 
 <h1 align="center">
-🚀 Senior SDET | QA Automation Engineer | Automation Architect
+🚀 Senior SDET | QA Automation Engineer | Automation Test Engineer
 </h1>
 
 <h3 align="center">
@@ -56,7 +56,6 @@ Currently seeking opportunities as:
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
