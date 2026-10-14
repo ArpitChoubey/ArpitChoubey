@@ -27,7 +27,7 @@ My frameworks run in CI on every build, in parallel across browsers, with report
 |---|---|
 | **Roles** | Senior SDET · Senior QA Automation Engineer · Test Automation Lead |
 | **Locations** | Anywhere in India · Global remote · Relocation (visa sponsorship may be required) |
-| **Notice period** | [your notice period] |
+| **Notice period** | Immediate Joiner(Can Join within a Week) |
 | **Preferred stack** | Playwright + TypeScript, or Selenium + Java |
 
 ## Skills
