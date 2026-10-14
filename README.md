@@ -1,328 +1,75 @@
-# 👋 Hi, I'm Arpit Choubey
-
-<h1 align="center">
-🚀 Senior SDET | QA Automation Engineer | Automation Test Engineer
-</h1>
-
-<h3 align="center">
-Playwright • Selenium • Java • TypeScript • Python • Rest Assured • Appium • Jenkins • Docker • CI/CD • AI Assisted Testing
-</h3>
+<h1 align="center">Arpit Choubey</h1>
+<h3 align="center">Senior SDET | Playwright + TypeScript | Selenium + Java | API Testing | AI-Assisted Testing | CI/CD & Docker</h3>
+<p align="center">India · Open to global remote and relocation</p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ArpitChoubey&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/ArpitChoubey?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/ArpitChoubey?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/last-commit/ArpitChoubey/ArpitChoubey?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SDET-6%2B%20Years-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Automation-Framework%20Architect-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-
+  <a href="https://linkedin.com/in/arpitchoubey">LinkedIn</a> ·
+  <a href="mailto:arpit.sdet@gmail.com">Email</a> ·
+  <a href="https://medium.com/@ArpitChoubey9">Medium</a>
 </p>
 
 ---
 
-# 🚀 About Me
+## About
 
-I'm a **Senior Software Development Engineer in Test (SDET)** with **6+ years of experience** designing scalable automation frameworks and improving software quality across **Web, API, Mobile, and AI-assisted testing solutions.**
+Senior SDET with **6+ years** of full-time experience (plus independent consulting since Oct 2023) building UI and API automation frameworks for **FinTech, E-commerce, Travel and SaaS** products.
 
-I enjoy building enterprise-level automation frameworks using **Playwright, Selenium, Rest Assured, TypeScript, Java, Python, Jenkins, Docker, GitHub Actions, Playwright MCP, and GitHub Copilot** while following modern software engineering best practices.
+I work in two stacks and move between them depending on the team:
 
-Currently seeking opportunities as:
+- **Playwright + TypeScript** for modern web products
+- **Selenium WebDriver + Java (TestNG, Maven)** for enterprise suites
 
-- Senior SDET
-- Lead SDET
-- QA Automation Lead
-- Staff SDET
-- Software Development Engineer in Test
+My frameworks run in CI on every build, in parallel across browsers, with reports the whole team can read. In previous roles this cut manual regression effort by up to 60% and regression run time by 35–45%.
 
----
+## Open to
 
-# 💼 Tech Stack
+| | |
+|---|---|
+| **Roles** | Senior SDET · Senior QA Automation Engineer · Test Automation Lead |
+| **Locations** | Anywhere in India · Global remote · Relocation (visa sponsorship may be required) |
+| **Notice period** | [your notice period] |
+| **Preferred stack** | Playwright + TypeScript, or Selenium + Java |
 
-## Programming Languages
+## Skills
 
-<p>
+| Area | What I use |
+|---|---|
+| **Playwright track** | Playwright Test, TypeScript, fixtures, Page Object Model, parallel and cross-browser runs (Chromium, Firefox, WebKit), Allure and HTML reports |
+| **Selenium track** | Selenium WebDriver, Core Java 8, TestNG, Maven, Selenium Grid, Cucumber BDD, Extent reports |
+| **API testing** | Playwright API testing, Postman, REST and SOAP validation, SQL backend checks |
+| **CI/CD and cloud** | Jenkins, GitHub Actions, Azure DevOps, Docker, AWS (EC2, S3, RDS, Lambda) |
+| **AI-assisted testing** | Playwright MCP, GitHub Copilot, prompt engineering for test authoring and code review |
+| **Practices** | Agile/Scrum, test strategy and planning, framework design patterns, Jira, Git |
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+## Featured projects
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+| Project | Stack | What it shows |
+|---|---|---|
+| [Playwright API + UI framework](https://github.com/ArpitChoubey/Scalable-playwright-api-test-framework-ci-cd) | Playwright, TypeScript, Jenkins | UI and API tests for a live e-commerce site, run in CI with reports |
+| [Playwright e-commerce framework](https://github.com/ArpitChoubey/Playwright-typescript-ecommerce-automation-framework) | Playwright, TypeScript, GitHub Actions | Page Object Model, fixtures, workflow-driven runs |
+| [AI-assisted Playwright framework](https://github.com/ArpitChoubey/Playwright-AI-Assisted-Test-Automation-Framework-) | Playwright MCP, Copilot, TypeScript | How I use AI to write tests faster, then review and fix them |
+| [Dockerized test environment](https://github.com/ArpitChoubey/Dockerized-test-environment-for-automation-framework) | Docker, Playwright, TypeScript | Tests running in isolated, repeatable containers |
+| [Selenium Java UI suite](https://github.com/ArpitChoubey/Selenium-Java--Ecommerce-UI-Automation-Suite) | Selenium 4, Java, TestNG, Maven | Enterprise-style UI framework with POM and reporting |
+| [Java for SDETs](https://github.com/ArpitChoubey/Java-Problem-Solving-For-Test-Automation-Engineers-Part-I) | Java | 55+ interview problems for automation engineers |
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+## Experience snapshot
 
+- **SDET Consultant (Remote)** · Oct 2023 – Present · Playwright, TypeScript, Selenium, API automation, Docker, Jenkins
+- **SDET / QA Automation Engineer, Mobile Programming India** · Aug 2021 – Apr 2023 · Playwright, Python, PyTest, AWS and Azure DevOps microservices, GitHub Actions
+- **SDET / QA Automation Engineer, SVM Technology (client: Cognizant)** · Jan 2017 – Aug 2021 · Selenium, Java, TestNG, Selenium Grid, Postman, SQL
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+## Certifications
 
-</p>
+ISTQB Certified Tester Foundation Level · ISTQB Agile Tester · AWS Certified Solutions Architect – Associate
 
----
+## What I bring to a QA team
 
-# 🎭 Automation Tools
+- Frameworks that other engineers can read, extend and trust
+- Tests wired into CI so a failed build tells you what broke
+- API and UI coverage that finds integration defects early
+- Faster test authoring with AI tools, with every generated test reviewed by a human
+- Clear communication between QA, developers and product (BDD where it helps)
 
-<p>
+## Contact
 
-<img src="https://img.shields.io/badge/Playwright-45ba63?style=for-the-badge&logo=playwright&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Rest_Assured-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-
-</p>
-
----
-
-# 🧪 Testing Frameworks
-
-<p>
-
-<img src="https://img.shields.io/badge/TestNG-EA4335?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/POM-Design%20Pattern-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Driven-Testing-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/BDD-Cucumber-success?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🔥 API Testing
-
-<p>
-
-<img src="https://img.shields.io/badge/REST_API-Testing-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CRUD-Operations-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JSON-Validation-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/API_Automation-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Authentication-Basic%20%7C%20Bearer%20Token-orange?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🚀 CI/CD & DevOps
-
-<p>
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Selenium_Grid-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Parallel_Execution-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CI/CD-blue?style=for-the-badge"/>
-
-</p>
-
----
-
-# ☁ Cloud & Version Control
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub_Projects-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/GitHub_Issues-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/GitHub_Agents-blue?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📊 Reporting
-
-<p>
-
-<img src="https://img.shields.io/badge/Allure-Report-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Extent-Reports-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HTML-Reports-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/TestNG-Reports-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JUnit-Reports-green?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🤖 AI Assisted Development
-
-<p>
-
-<img src="https://img.shields.io/badge/GitHub-Copilot-black?style=for-the-badge&logo=githubcopilot"/>
-
-<img src="https://img.shields.io/badge/Playwright-MCP-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI-Assisted%20Automation-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prompt-Engineering-success?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🛠 IDE & Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-black?style=for-the-badge&logo=intellijidea"/>
-
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven"/>
-
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm"/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-
-</p>
-
----
-
-# 📚 Automation Expertise
-
-✅ UI Automation
-
-✅ API Automation
-
-✅ Mobile Automation
-
-✅ Visual Testing
-
-✅ Accessibility Testing
-
-✅ Regression Testing
-
-✅ Smoke Testing
-
-✅ Sanity Testing
-
-✅ Cross Browser Testing
-
-✅ Responsive Testing
-
-✅ Selenium Grid
-
-✅ Docker Execution
-
-✅ Jenkins Pipelines
-
-✅ GitHub Actions
-
-✅ Page Object Model
-
-✅ Data Driven Framework
-
-✅ Hybrid Framework
-
-✅ Keyword Driven Framework
-
-✅ BDD Framework
-
-✅ AI Assisted Testing
-
-✅ Playwright MCP
-
-✅ GitHub Copilot
-
-✅ Framework Design
-
-✅ Test Strategy
-
-✅ Test Planning
-
-✅ Defect Management
-
-✅ Root Cause Analysis
-
----
-
-# 🚀 Featured Projects
-
-| Project | Tech Stack |
-|----------|------------|
-| 🎭 Playwright AI Assisted Framework | Playwright • MCP • Copilot |
-| 🎭 Playwright UI Automation | Playwright • TypeScript |
-| 🚀 Playwright API Framework | Playwright • API • Jenkins |
-| 🕷 Selenium Java Framework | Selenium • Java • TestNG |
-| 🐍 Selenium Python Framework | Selenium • Python |
-| 🌐 Rest Assured Framework | Rest Assured |
-| 🐳 Docker Selenium Grid | Docker • Selenium |
-
----
-
-# 📈 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArpitChoubey&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitChoubey&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArpitChoubey&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ArpitChoubey&theme=tokyo-night)
-
----
-
-# 🌐 Connect With Me
-
-📧 **Email**
-
-jobsforarpit@gmail.com
-
-🔗 **LinkedIn**
-
-https://linkedin.com/in/arpitchoubey
-
-💻 **GitHub**
-
-https://github.com/ArpitChoubey
-
-✍️ **Medium**
-
-https://medium.com/@ArpitChoubey9
-
----
-
-# 💡 Quote
-
-> **"Quality Engineering is not about finding bugs; it's about engineering confidence into every release."**
-
-⭐ If you like my work, don't forget to **Star** my repositories and connect with me on LinkedIn.
+Email: [arpit.sdet@gmail.com](mailto:arpit.sdet@gmail.com) · LinkedIn: [linkedin.com/in/arpitchoubey](https://linkedin.com/in/arpitchoubey) · Writing: [Medium](https://medium.com/@ArpitChoubey9)
