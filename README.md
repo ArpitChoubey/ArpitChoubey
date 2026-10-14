@@ -114,7 +114,7 @@ Across **50+ public engineering repositories**, my work covers the full spectrum
 ### Connect
 
 <p align="center">
-  <a href="mailto:jobsforarpit@gmail.com">jobsforarpit@gmail.com</a> ·
+  <a href="mailto:jobsforarpit@gmail.com">arpit.sdet@gmail.com</a> ·
   <a href="https://linkedin.com/in/arpitchoubey">linkedin.com/in/arpitchoubey</a> ·
   <a href="https://medium.com/@ArpitChoubey9">medium.com/@ArpitChoubey9</a>
 </p>
