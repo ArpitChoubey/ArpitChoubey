@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arpit Choubey 👋</h1>
-<h3 align="center">Senior / Lead SDET · Quality Engineering & Test Automation Architect</h3>
+<h3 align="center">Senior / Lead SDET · Test Automation Engineer · Quality Engineering</h3>
 <p align="center"><b>Playwright + TypeScript</b> · <b>Selenium + Java</b> · <b>REST Assured</b> · <b>CI/CD & Docker</b> · <b>AI-Assisted Testing (MCP, DeepEval)</b></p>
 
 <p align="center">
@@ -21,7 +21,7 @@ Senior SDET with **6+ years** of experience designing and scaling test automatio
 - 🏗️ **Architect** maintainable automation frameworks in **Playwright + TypeScript** and **Selenium + Java**, chosen to fit the team and the product
 - ⚡ Cut **manual regression effort by up to 60%** and **regression runtime by 35–45%** through parallel execution inside pull-request pipelines
 - 🔁 Build **shift-left quality gates** in GitHub Actions, Jenkins and Azure DevOps, so broken builds fail fast with trace artifacts developers can act on
-- 👥 **Led teams of 3–4 engineers** for 1+ year on mobile app development and freelance projects: planning work, reviewing code and mentoring the team
+- 👥 **Led teams of 3–4 engineers** for 1+ year on mobile programming and freelance projects: planning work, reviewing code and mentoring the team
 - 🤖 Apply **AI in testing pragmatically**: Playwright MCP + Copilot for test authoring, and DeepEval for evaluating LLM agents, with assertions always reviewed by a person
 
 ---
@@ -30,7 +30,7 @@ Senior SDET with **6+ years** of experience designing and scaling test automatio
 
 | | |
 | :--- | :--- |
-| **Roles** | Lead SDET · Senior SDET · QA Automation Lead · Senior Quality Engineer · Test Automation Architect |
+| **Roles** | Lead SDET · Senior SDET · QA Automation Lead · Senior Quality Engineer · Test Automation Engineer |
 | **Locations** | Anywhere in India · Remote (global) · Relocation to Canada, USA, UK, Germany, Netherlands, Ireland |
 | **Work authorization** | Indian citizen. Open to employer visa sponsorship (e.g. EU Blue Card, UK Skilled Worker, H-1B, Canada work permit) |
 | **Time-zone overlap** | Comfortable overlapping with UK/EU working hours and early US / Canada hours |
