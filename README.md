@@ -60,7 +60,7 @@ Senior SDET with **6+ years** of experience designing and scaling test automatio
 <img src="https://img.shields.io/badge/REST_Assured-5A9E4B?style=flat-square"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Newman-FF6C37?style=flat-square"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/SOAP-6E6E6E?style=flat-square"/>
 </p>
 
@@ -69,7 +69,7 @@ Senior SDET with **6+ years** of experience designing and scaling test automatio
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
@@ -77,7 +77,7 @@ Senior SDET with **6+ years** of experience designing and scaling test automatio
 
 **AI-Assisted Quality Engineering**
 <p>
-<img src="https://img.shields.io/badge/Playwright_MCP-2EAD33?style=flat-square"/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright_MCP-2EAD33?style=flat-square"/>
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white"/>
 <img src="https://img.shields.io/badge/DeepEval-6B46C1?style=flat-square"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
@@ -89,6 +89,7 @@ Senior SDET with **6+ years** of experience designing and scaling test automatio
 
 | Project | Stack | What it shows |
 | :--- | :--- | :--- |
+| [**Claude Code Selenium Automation Project**](https://github.com/ArpitChoubey/Claude-Code-Selenium-Automation-Project) 🆕 | Claude Code · Selenium 4 · Java 17 · TestNG · Kafka · Docker · Kubernetes · Azure DevOps | Built with Claude Code: pluggable DriverFactory (local or Selenium Grid), schema-validated Kafka producer/consumer testing, Docker Compose profiles, Selenium Grid + test Job on Kubernetes, two-stage Azure DevOps pipeline |
 | [**Scalable Playwright + API CI/CD Suite**](https://github.com/ArpitChoubey/Scalable-playwright-api-test-framework-ci-cd) ⭐14 | Playwright · TypeScript · Jenkins · Docker | UI + API regression for an e-commerce platform: POM, custom fixtures, Dockerized nodes, HTML reporting, Jenkins pipeline |
 | [**Playwright AI-Assisted Framework**](https://github.com/ArpitChoubey/Playwright-AI-Assisted-Test-Automation-Framework) | Playwright MCP · Copilot · TypeScript | MCP agents + Copilot for test generation, selector resolution and trace analysis, with human-reviewed assertions |
 | [**Dockerized Test Environment**](https://github.com/ArpitChoubey/Dockerized-test-environment-for-automation-framework) | Docker Compose · Playwright | Containerized multi-browser execution, giving the same results on local machines and CI nodes |
